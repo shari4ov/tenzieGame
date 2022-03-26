@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b19331583deb5f0f1f5b",
-    "url": "/tenzieGame/static/css/main.45060352.chunk.css"
+    "revision": "d60ad6e34ff6c9b05dc1",
+    "url": "/tenzieGame/static/css/main.2e9c01d1.chunk.css"
   },
   {
-    "revision": "b19331583deb5f0f1f5b",
-    "url": "/tenzieGame/static/js/main.b1933158.chunk.js"
+    "revision": "d60ad6e34ff6c9b05dc1",
+    "url": "/tenzieGame/static/js/main.d60ad6e3.chunk.js"
   },
   {
     "revision": "99d07085df6e750e705a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tenzieGame/static/js/runtime~main.fc3ed1a7.js"
   },
   {
-    "revision": "dd568491939c3b738269c28ffd6abc6b",
+    "revision": "814d42ee42f0bad13e75f9b9295bf4e4",
     "url": "/tenzieGame/index.html"
   }
 ];
